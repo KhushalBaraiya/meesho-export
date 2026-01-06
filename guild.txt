@@ -1,0 +1,6 @@
+- Laravel New 12 Project install 
+
+- Spati role | Media | filament | phone-input | 
+
+- setting table 
+
